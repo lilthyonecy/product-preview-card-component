@@ -10,7 +10,7 @@ body {
 }
 
 .img-container {
-    background-image: url('images/image-product-desktop.jpg');
+    background-image: url('../images/image-product-desktop.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
