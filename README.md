@@ -78,7 +78,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Github - [Thyonecy]([https://www.your-site.com](https://github.com/lilthyonecy))
+- Github - [Thyonecy](https://www.your-site.com](https://github.com/lilthyonecy)
 - Frontend - [@Thyonecy](https://www.frontendmentor.io/profile/lilthyonecy)
 - Twitter - [@Thyonecy04](https://www.twitter.com/Thyonecy04)
 
